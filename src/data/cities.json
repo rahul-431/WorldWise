@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Sharanga",
+      "country": "Russian Federation (the)",
+      "emoji": "RU",
+      "date": "2023-12-20",
+      "notes": "visited russia",
+      "position": {
+        "lat": "57.040729838360875",
+        "lng": "46.75781250000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Pokhara",
+      "country": "Nepal",
+      "emoji": "NP",
+      "date": "2010-01-23",
+      "notes": "visited pokhara of nepal",
+      "position": {
+        "lat": "28.21244928533849",
+        "lng": "84.00970458984376"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Susa",
+      "country": "Azerbaijan",
+      "emoji": "AZ",
+      "date": null,
+      "notes": "",
+      "position": {
+        "lat": "39.774769485295465",
+        "lng": "46.58203125000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Sitaganga",
+      "country": "Nepal",
+      "emoji": "NP",
+      "date": "2023-12-27",
+      "notes": "visited tilangana",
+      "position": {
+        "lat": "27.828753628724115",
+        "lng": "82.76000976562501"
+      },
+      "id": 4
+    }
+  ]
+}
